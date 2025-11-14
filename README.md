@@ -81,6 +81,6 @@ demo.close();
 ### OUTPUT:
 <img width="1438" height="865" alt="Screenshot 2025-11-14 105851" src="https://github.com/user-attachments/assets/96bc72ea-e8dc-43cb-b6e5-48d47ff95dda" />
 <img width="1425" height="863" alt="Screenshot 2025-11-14 110316" src="https://github.com/user-attachments/assets/36d1a0df-08fe-4c09-9cf9-7d7dc1ab2169" />
-
+```
 ### RESULT:
 The prototype successfully demonstrates text-to-image generation using Stable Diffusion, providing an interactive and user-friendly interface. Users can modify parameters to influence the output quality and style.
